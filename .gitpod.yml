@@ -1,0 +1,4 @@
+image: gitpod/workspace-postgres
+
+tasks:
+  - command: echo ""
